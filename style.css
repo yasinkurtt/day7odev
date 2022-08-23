@@ -1,0 +1,29 @@
+input:hover { 
+    background-color: salmon;
+    
+}
+body{
+    background-color: bisque;
+}
+h2{
+    color: crimson;
+}
+.footer{
+   
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+#vize1{
+    border-radius: 8px;
+}
+#vize2{
+    border-radius: 8px;
+}
+#final{
+    border-radius: 8px;
+}
+#sonuc{
+    color: coral;
+    text-align: left;
+}
